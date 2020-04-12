@@ -121,3 +121,6 @@ UpgradeLog*.XML
 /Help
 /myresults.xml
 /opencv_files
+
+# JetBrains RIder
+.idea
